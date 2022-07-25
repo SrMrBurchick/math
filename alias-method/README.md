@@ -1,4 +1,4 @@
-### (Algorithm: Naive Alias Method)[https://www.keithschwarz.com/darts-dice-coins/]
+### [Algorithm: Naive Alias Method](https://www.keithschwarz.com/darts-dice-coins/)
 
 Initialization:
  - Multiply each probability pi by n.
